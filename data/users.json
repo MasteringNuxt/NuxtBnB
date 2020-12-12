@@ -1,0 +1,28 @@
+[{
+    "objectID": "u1",
+    "joined": "2018-11-04T00:00:00-0400",
+    "name": "Amanda",
+    "image": "https://images.unsplash.com/photo-1558898479-33c0057a5d12?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=1.9&w=100&h=100",    
+    "reviewCount": 32,
+    "description": "I host with my husband Roger.  We're usually in town and can answer any questions you may have.  All of our properties are secure, clean, and within the metro area.  Your 100% satisfaction is my goal, if there is anything I can do to make your stay better please let me know!",
+    "homeId": ["a", "b"]
+},
+{
+    "objectID": "u2",
+    "joined": "2019-04-14T00:00:00-0400",     
+    "name": "Snoop Dog",
+    "image": "https://images.unsplash.com/photo-1536164261511-3a17e671d380?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2.3&w=100&h=100",
+    "reviewCount": 142,
+    "homeId": ["c"],
+    "description":"I'm a trusty and loyal servant.  I will be at your side 24x7 and will check up on you often. SQUIRREL!  I love long walks and itching myself at the most awkward times.  Your happiness, SQUIRREL, is my only goal.  If you call and I don't answer it's because I'm taking my 4th nap of the day."
+},
+{
+    "objectID": "u3",
+    "joined": "2014-08-19T00:00:00-0400",     
+    "name": "Seth",
+    "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=facearea&facepad=2.3&w=100&h=100",
+    "reviewCount": 273,
+    "homeId": ["d"],
+    "description": "I split my time between my home in Vail and Fargo. I have been coming to the Vail area for about 12 years and am familiar with the area should you have any questions."
+}
+]
